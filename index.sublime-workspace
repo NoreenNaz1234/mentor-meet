@@ -1,0 +1,397 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"numb2"
+			],
+			[
+				"nu",
+				"numb1"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"u",
+				"URL"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "ind",
+		"selected_items":
+		[
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/vbstudent/Desktop/New folder (3)/Q4.js",
+		"/C/Users/vbstudent/Desktop/New folder (3)/Q3.js",
+		"/C/Users/vbstudent/Desktop/New folder (3)/Q2.js",
+		"/C/Users/vbstudent/Desktop/New folder (3)/file.js",
+		"/C/Users/vbstudent/Desktop/New folder (3)/script .js",
+		"/C/Users/vbstudent/Desktop/New folder (3)/index.html",
+		"/C/Users/vbstudent/Desktop/taha hussain/java.js",
+		"/C/Users/vbstudent/Desktop/taha hussain/style.css",
+		"/C/Users/vbstudent/Desktop/taha hussain/index.html",
+		"/D/marium/pages/style-1.css",
+		"/D/marium/pages/style.css",
+		"/D/marium/pages/index-kurti.html",
+		"/C/Users/vbstudent/Desktop/test-1/index.html",
+		"/C/Users/vbstudent/Desktop/test-1/style.css",
+		"/C/Users/vbstudent/Desktop/lab/front pages/pages/style.css",
+		"/C/Users/vbstudent/Desktop/lab/front pages/pages/index.html",
+		"/C/Users/vbstudent/Desktop/marium-git/index.html",
+		"/C/Users/vbstudent/Desktop/marium-git/style.css",
+		"/D/marium-portfolio/timeline/pages/index.html",
+		"/D/marium-portfolio/timeline/pages/style.css",
+		"/E/Files/URWAAA/Marium/marium-competion/competition/hackathon-teaser/home-assignment/work-from-anywhere/pages/index.html",
+		"/E/Files/URWAAA/Marium/New folder (2)/marium-competion/hackathon-tuesday/captain/google-search/index.html",
+		"/C/Users/vbstudent/Desktop/marium-competion/marium-competion/hackathon-tuesday/captain/shoe-description/index.html",
+		"/C/Users/vbstudent/Desktop/marium-competion/marium-competion/hackathon-tuesday/captain/google-search/index.html",
+		"/C/Users/vbstudent/Desktop/marium-competion/marium-competion/hackathon-tuesday/captain/shoe-description/style.css",
+		"/C/Users/vbstudent/Desktop/marium-competion/marium-competion/hackathon-tuesday/captain/google-search/style.css",
+		"/C/Users/vbstudent/Desktop/marium-competion/hackathon-tuesday/captain/book-formats/mockups/mockup.png",
+		"/C/Users/vbstudent/Desktop/marium-competion/hackathon-tuesday/captain/book-formats/index.html",
+		"/C/Users/vbstudent/Desktop/marium-competion/hackathon-tuesday/captain/book-formats/style.css",
+		"/C/Users/vbstudent/Desktop/share-18/lab-task-1/index.html",
+		"/C/Users/vbstudent/Desktop/abc.html/abc.html",
+		"/C/Users/vbstudent/Desktop/sh.html/index.html",
+		"/C/Users/vbstudent/Desktop/sh.html/sss.html",
+		"/C/Users/vbstudent/Desktop/sh",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/download-form.html",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/admission.css",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/Home-Page.html",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/admission.html",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/admission-form.html",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/admission-form.css",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/early-years-education.html",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/early-year.css",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/fee-structure.html",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/fee-structure.css",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/download-form.css",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/The-School.html",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/Theschool.css",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/career.html",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/career.css",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/Investor-area.css",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/Investor-Area.html",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/gallery.html",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/gallerystyle.css",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/campus.html",
+		"/C/Users/vbstudent/Desktop/Zahid/My Project/pages/campus.css",
+		"/C/Users/vbstudent/Desktop/Zahid/share-15/share-15/level-1/labtask.css",
+		"/C/Users/vbstudent/Desktop/Zahid/share-15/share-15/level-1/labtask.html",
+		"/C/Users/vbstudent/Desktop/taha-hussain/stylesss.css",
+		"/C/Users/vbstudent/Desktop/taha-hussain/taha.html",
+		"/C/Users/vbstudent/Desktop/taha-hussain/index.css",
+		"/C/Users/vbstudent/Desktop/taha-hussain/style.html",
+		"/C/Users/vbstudent/Desktop/samin",
+		"/C/Users/vbstudent/Desktop/samina.html",
+		"/C/Users/vbstudent/Desktop/Bilal/Forms.html",
+		"/C/share-class-8/share-class-8/png-slicing-task/pages/our-team.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\marium\\pages\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,38 @@
+body {
+   background-image: radial-gradient(#e59a5b,#e91e63, #d673b7);
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+div {
+  display: flex;
+  padding-left: 10em;
+  margin-top: 2em;
+}
+
+h3 {
+  text-align: center;
+}
+
+li {
+  margin: 1em;
+  padding: 0.5em;
+}
+
+li:hover {
+  background-color: #71223d;
+  cursor: pointer;    
+}
+
+a {
+	text-decoration: none;
+  color: black;
+}
